@@ -1,2 +1,2 @@
-# Lubo729.github.io
+# lukeborgerding.github.io
 Personal Portfolio
